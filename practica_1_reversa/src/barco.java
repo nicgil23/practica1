@@ -44,7 +44,7 @@ public class barco {
         return this.posicionesx.size();
     }
     public void tocado(int fila,int columna){
-        this.posicionesx.add(fila); 
+        this.posicionesx.add(columna); 
         this.posicionesy.add(fila + columna);
     }
     @Override
