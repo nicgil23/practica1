@@ -1,2 +1,2 @@
 # Resumen de la practica
-Habituarnos al ciclo de trabajo con Git13
+Habituarnos al ciclo de trabajo con Git
