@@ -1,2 +1,2 @@
-# Resumen de la practica2
+# Resumen de la practica1
 Habituarnos al ciclo de trabajo con Git
