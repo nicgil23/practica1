@@ -45,7 +45,7 @@ public class barco {
     }
     public void tocado(int fila,int columna){
         this.posicionesx.add(fila); 
-        this.posicionesy.add(columna + fila + 1);
+        this.posicionesy.add(columna + fila + 2);
     }
     @Override
     public String toString() {
